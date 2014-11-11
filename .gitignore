@@ -1,0 +1,17 @@
+#Ejemplo
+#results/
+#*.so
+#tmp/
+#*.o
+#Add a comment to this line
+#regression.diffs
+#regression.out
+#sql/json--1*
+
+*.o
+*.iso
+*.img
+*.bin
+bin/
+img/
+isodir/
