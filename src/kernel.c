@@ -34,7 +34,7 @@ kmain()
     _mascaraPIC2(0xEF); //Habilito mouse
 
 	_Sti();
-
+/* Method that initialites the shell */
 	startShell();
 	
 }
